@@ -1,5 +1,3 @@
-
-```markdown
 ## 🚀 Final Project: Daily Digest - News Aggregator App
 
 **Daily Digest** is a full-stack news aggregator application built using the MERN stack. It fetches and displays real-time news articles via a user-friendly mobile interface.
@@ -23,12 +21,10 @@
 ## 📦 Folder Structure
 
 ```
-
 Daily-Digest-News-Aggregator/
 ├── frontend/   # React Native app (user interface)
 └── backend/    # Express backend with MongoDB integration
-
-````
+```
 
 ---
 
@@ -40,7 +36,7 @@ Daily-Digest-News-Aggregator/
 cd backend
 npm install
 node index.js
-````
+```
 
 > Runs the backend on `http://localhost:5000`
 
@@ -60,31 +56,14 @@ npx expo start
 
 ## 📸 Gallery
 
-![Home Feed](assets/home_feed.png)
-![Search Screen](assets/search_screen.png)
-![News Detail](assets/news_detail.png)
+![Title Screen](assets/title.png)
+![Home Screen](assets/home.png)
+![News Detail](assets/news.png)
 
 ---
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://youtube.com/shorts/8ydcAz4RDt4)
+[![Watch the demo](assets/thumb.png)](https://youtube.com/shorts/8ydcAz4RDt4)
 
----
-
-```
-
----
-
-### 🔧 To add the video:
-
-1. **Upload your screen recording to YouTube or Loom**.
-2. **Take a screenshot** from the video and name it `video_thumbnail.png`.
-3. Replace:
-   - `https://your-youtube-demo-link.com` with your actual video link.
-   - `assets/video_thumbnail.png` with the actual path to your thumbnail image.
-
----
-
-Let me know if you'd like help uploading to YouTube or generating the thumbnail from your video.
-```
+> 📌 *Click the thumbnail to watch the full walkthrough on YouTube.*
