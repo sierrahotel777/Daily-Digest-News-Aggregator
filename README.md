@@ -64,6 +64,6 @@ npx expo start
 
 ## 🎥 Demo Video
 
-[![Watch the demo](assets/video_thumb.png)](https://youtube.com/shorts/8ydcAz4RDt4)
+[![Watch the demo](assets/video_thumbnail.png)](https://youtube.com/shorts/8ydcAz4RDt4)
 
 > 📌 *Click the thumbnail to watch the full walkthrough on YouTube.*
