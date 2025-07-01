@@ -1,4 +1,4 @@
-## 🚀 Final Project: Daily Digest - News Aggregator App
+## 🚀 App Project: Daily Digest - News Aggregator App
 
 **Daily Digest** is a full-stack news aggregator application built using the MERN stack. It fetches and displays real-time news articles via a user-friendly mobile interface.
 
@@ -64,6 +64,6 @@ npx expo start
 
 ## 🎥 Demo Video
 
-[![Watch the demo](assets/thumb.png)](https://youtube.com/shorts/8ydcAz4RDt4)
+[![Watch the demo](assets/video_thumb.png)](https://youtube.com/shorts/8ydcAz4RDt4)
 
 > 📌 *Click the thumbnail to watch the full walkthrough on YouTube.*
